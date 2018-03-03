@@ -3,7 +3,8 @@
  The goal was to create a Burger App using Node Express Handlebars and our own ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
 ## Getting Started
-Heroku not ready yet
+https://burger-franchise.herokuapp.com/
+
 ## Screen Shots
 
 ![Screen shot](public/images/ScreenShot.png)
