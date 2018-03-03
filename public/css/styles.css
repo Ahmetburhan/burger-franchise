@@ -58,7 +58,7 @@ label {
 
 .form-control {
   display: block;
-  width: 33%;
+  width: 100%;
 }
 button.submit {
   float: left;
